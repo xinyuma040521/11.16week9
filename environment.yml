@@ -1,0 +1,9 @@
+name: 11.16week9
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas
+  - rioxarray
+  - matplotlib
+  - jupyterlab
